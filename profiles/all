@@ -1,4 +1,5 @@
 main
+extras/HaxeBinding
 extras/JavaBinding
 extras/ValaBinding
 extras/MonoDevelop.Database
