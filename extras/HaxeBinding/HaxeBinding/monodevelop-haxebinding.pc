@@ -1,6 +1,0 @@
-Name: HaxeBinding
-Description: HaxeBinding
-Version: 
-
-Requires: 
-Libs: -r:/usr/local/lib/monodevelop-haxe/HaxeBinding.dll
